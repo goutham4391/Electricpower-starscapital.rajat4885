@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+<!-- Mirrored from starterscapital.de/cookie-policy by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Oct 2022 09:19:32 GMT -->
+<head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="Starter's Capital">
+<meta property="og:title" content="Verwendung von Cookies">
+<meta property="og:url" content="cookie-policy.html">
+<meta property="og:type" content="website">
+<meta property="og:description" content="">
+<meta property="og:locale" content="de_DE">
+<meta property="og:image" content="../www.starterscapital.de/common/meta-logo.html">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Verwendung von Cookies"/>
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="cookie-policy.html"/>
+<meta name="twitter:image" content="../www.starterscapital.de/common/meta-logo.html" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="common/favicon/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="16x16" href="common/favicon/favicon-16x16.png"><link rel="icon" type="image/png" sizes="32x32" href="common/favicon/favicon-32x32.png"><link rel="shortcut icon" href="favicon.ico" /><link rel="manifest" href="common/favicon/manifest.json"><link rel="mask-icon" href="common/favicon/safari-pinned-tab.svg" color="#365E97"><meta name="theme-color" content="#FFFFFF">
+
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900" rel="stylesheet" type="text/css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="common/style.css">
+   <link href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>Verwendung von Cookies</title>
+
+  </head>
+  <body>
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+
+  <div class="navbar-header">
+
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+
+  <a class="navbar-brand" href="index.html"><img src="common/logo.jpeg" width="150" height="30" alt="StarterCapital" /></a>
+
+  </div>
+
+  <div id="navbar" class="navbar-collapse collapse">
+
+    <ul class="nav navbar-nav navbar-right">
+
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">
+          <span class="nav-icon"><span class="icon-home"></span></span>
+          <span>Home</span>
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="mailto:feedback@starterscapital.de">
+          <span class="nav-icon"><span class="icon-person"></span></span>
+          <span>Hilfe / Kontakt</span>
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="starterscapital/index.html">
+          <span class="nav-icon"></span>
+          <span class="accent-color text-uppercase">Login</span>
+        </a>
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>
+</nav>
+
+
+<div class="container">
+
+<h1>Verwendung von Cookies</h1>
+
+<h2>Was ist ein Cookie?</h2>
+
+<p>Ein Cookie ist ein kurzes Text-Snippet, das von einer von Ihnen besuchten Webseite an Ihren Browser gesendet wird. Es speichert Informationen zu Ihrem letzten Besuch, wie Ihre bevorzugte Sprache oder andere Einstellungen. So finden Sie sich auf der Website schneller zurecht und nutzen sie effektiver, wenn Sie sie das nächste Mal aufrufen. Cookies spielen eine wichtige Rolle. Ohne sie wäre das Surfen im Web oft frustrierend.</p>
+
+<h2>Warum nutzen wir Cookies?</h2>
+
+<p>Wir verwenden Cookies, um Inhalte zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unsere Website zu analysieren. Außerdem geben wir Informationen zu Ihrer Nutzung unserer Website an unsere Partner für soziale Medien und Analysen weiter.</p>
+
+<p>Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.</p>
+
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <span class="text-muted small">COMPANY © 2022 <a href="agb.html">AGB</a> / <a href="datenschutz.pdf">Datenschutz</a> / <a href="impressum.html">Impressum</a> / <a href="http://www.neuhausconsult.de/">DNC GmbH</a></span>
+
+    <div class="social">
+      <a class="social-media fb" href="http://www.facebook.com/starterscapital1/" target="_blank"><i class="fa fa-facebook"></i></a>
+      <a class="social-media li" href="http://www.linkedin.com/in/starterscapital/" target="_blank"><i class="fa fa-linkedin"></i></a>
+      <a class="social-media xi" href="https://www.xing.com/companies/starterscapitalc%2Fodncdr.neuhausconsultgmbh"  target="_blank"><i class="fa fa-xing"></i></a>
+    </div>
+  </div>
+</footer>
+
+<section class="cookie-consent">
+<div>
+<span class="btn btn-inverse">Alles klar!</span>
+<p>Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden.
+<br /><a href="cookie-policy">Mehr Info</a>
+</p>
+</div>
+</section>
+
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="../maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script charset="UTF-8" src="cookie.js" class="off" async defer></script>
+
+
+</body>
+
+<!-- Mirrored from starterscapital.de/cookie-policy by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Oct 2022 09:19:32 GMT -->
+</html>
